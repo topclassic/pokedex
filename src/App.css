@@ -1,0 +1,24 @@
+.ant-input-affix-wrapper .ant-input-prefix :not(.anticon),
+.ant-input-affix-wrapper .ant-input-suffix :not(.anticon) {
+  color: #ec5656;
+  font-size: 30px;
+}
+
+.ant-progress-inner {
+  background-color: #e4e4e4;
+}
+
+.ant-input-affix-wrapper:hover .ant-input:not(.ant-input-disabled) {
+  border-color: #e6e6e6;
+}
+
+.ant-input:focus {
+  border-color: #e6e6e6;
+}
+
+.ant-input-affix-wrapper .ant-input:not(:last-child) {
+  font-family: "Gaegu";
+  font-size: 26px;
+}
+
+
