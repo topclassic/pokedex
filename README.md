@@ -1,4 +1,7 @@
-# AppMan Pokédex (My Pokémon cards list)
+# Pokédex (My Pokémon cards list)
 
-I think in calculation step is mistake 
+Basic structer react redux
 
+- npm install
+- npm run api
+- npm run start
